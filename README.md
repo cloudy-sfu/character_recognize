@@ -1,4 +1,4 @@
-# CharacterRecognization
+# CharacterRecognition
 
 ![](https://img.shields.io/badge/build-pass-brightgreen)
 
