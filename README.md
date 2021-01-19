@@ -1,7 +1,5 @@
 # CharacterRecognition
 
-![](https://img.shields.io/badge/build-pass-brightgreen)
-
 This program functions as the classifier of hand-written numbers & English characters.
 
 ## Dataset
