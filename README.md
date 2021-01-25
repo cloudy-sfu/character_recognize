@@ -1,4 +1,4 @@
-# CharacterRecognition
+# Character Recognition
 
 This program functions as the classifier of hand-written numbers & English characters.
 
